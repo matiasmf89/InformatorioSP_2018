@@ -50,7 +50,7 @@ camara = Camara('SONY','AK47','PLATA',12)
 telefono = Telefono('SAMSUNG','S10','NEGRO',303456)
 reproductor = ReproductorMp3('SANYO','X23','FUCCIA','50 gr')
 
-# print(camara)
+print(camara)
 camara.ver_info()
 telefono.ver_info()
 reproductor.ver_info()
