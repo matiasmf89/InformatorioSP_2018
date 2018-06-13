@@ -1,4 +1,4 @@
-from ejer4 import ArtefactoElectrico
+from ejer_6 import ArtefactoElectrico
 
 class Camara(ArtefactoElectrico):
 
@@ -35,6 +35,7 @@ class Telefono(ArtefactoElectrico):
 		super().ver_info() 
 		print('Número: ',self.numero)
 
+
 class ReproductorMp3(ArtefactoElectrico):
 
 	def __init__(self,marca,modelo,color,peso='20gr'):
@@ -42,7 +43,7 @@ class ReproductorMp3(ArtefactoElectrico):
 		self.peso = peso
 
 	def reproducir(self):
-		print("reproduciendo!")
+		print("reproduciendo música!")
 
 	def ver_info(self):
 		print("\nREPRODUCTOR MP3")
@@ -59,6 +60,4 @@ if __name__ == '__main__':
 	telefono.ver_info()
 	reproductor.ver_info()
 
-# telefono.ver_info()
-# print()
-# reproductor.ver_info()
+
