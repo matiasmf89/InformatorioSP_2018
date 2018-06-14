@@ -5,8 +5,8 @@ class Celular(Telefono,Camara,ReproductorMp3):
 		super().__init__(marca,model,color,numero)
 
 
-
 celular = Celular('SAMSUNG','S10','NEGRO',303456)
 
 
-print(__name__)
+
+# print(__name__)
