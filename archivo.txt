@@ -1,0 +1,47 @@
+commit 8f84771ec2c9fdcb32a529a727b4db168919e848
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Thu Jun 14 18:38:33 2018 -0300
+
+    agrego metodo mensajear
+
+commit 8d1fe30cdef06f06c94093cb8b7e824278769298
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Thu Jun 14 18:28:33 2018 -0300
+
+    nueva modificación
+
+commit 76deac290d74baefb49e4ca8055673707a012dd0
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Thu Jun 14 18:24:27 2018 -0300
+
+    modificaciones
+
+commit 80c5f9027aaca7cc49594446bac98c007b3bca11
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Wed Jun 13 19:08:48 2018 -0300
+
+    modifico celular
+
+commit 1fb37f1ae81d98139ff6712117f0386928865886
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Tue Jun 12 19:29:37 2018 -0300
+
+    agrego ejer_8 y modifico ejer_7
+
+commit 7e09feca5a58dcd088ec576275a91e6c8cfd917c
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Tue Jun 12 19:15:33 2018 -0300
+
+    modifico ejer_7
+
+commit 8385180590aef4a368891f0ee7416095080e4616
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Tue Jun 12 19:14:38 2018 -0300
+
+    segundo commit, clase telefono, camara, mp3
+
+commit 8539025eded2253676b74f4aabd5e85e4401daec
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Tue Jun 12 19:12:10 2018 -0300
+
+    primer commit, clase ArtefactoElectrico
