@@ -5,6 +5,7 @@ class Camara(ArtefactoElectrico):
 	def __init__(self,marca,modelo,color,megapixeles=12):
 		super().__init__(marca,modelo,color)
 		self.megapixeles = megapixeles
+		self.__zoom = 5
 
 	def foto(self):
 		print("sacando foto!")
@@ -17,6 +18,13 @@ class Camara(ArtefactoElectrico):
 		super().ver_info() 
 		print('Megapixeles: ',self.megapixeles)
 
+	def aumentar_zoom(self):
+		if self.__zoom < 10:
+			self.__zoom += 2
+
+	def desminuir_zoom(self):
+		if self.__zoom > 0:
+			self.__zoom -= 2
 
 class Telefono(ArtefactoElectrico):
 
