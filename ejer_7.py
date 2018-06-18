@@ -41,6 +41,7 @@ class ReproductorMp3(ArtefactoElectrico):
 	def __init__(self,marca,modelo,color,peso='20gr'):
 		super().__init__(marca,modelo,color)
 		self.peso = peso
+		self.__volumen = 50
 
 	def reproducir(self):
 		print("reproduciendo música!")
@@ -49,6 +50,14 @@ class ReproductorMp3(ArtefactoElectrico):
 		print("\nREPRODUCTOR MP3")
 		super().ver_info() 
 		print('Peso: ',self.peso)
+
+	def subir_volumen(self):
+		if self.__volumen < 100:
+			self.__volumen += 10
+
+	def bajar_volumen(self):
+		if self.__volumen > 0:
+			self.__volumen -= 10
 
 if __name__ == '__main__':
 	camara = Camara('SONY','AK47','PLATA',12)
