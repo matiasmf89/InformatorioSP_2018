@@ -8,6 +8,10 @@ class Celular(Telefono,Camara,ReproductorMp3):
 		self.mensaje = input('Ingrese mensaje: ')
 		print('enviando mensaje')
 
+	def filmar(self):
+		print("filmando")
+
+	
 celular = Celular('SAMSUNG','S10','NEGRO',303456)
 
 celular.mensajear()
