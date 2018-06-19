@@ -1,47 +1,138 @@
-commit 8f84771ec2c9fdcb32a529a727b4db168919e848
+commit c0d671a9a2a4f7356bbaedd3268e00a571a4aab5
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Tue Jun 19 17:05:12 2018 -0300
+
+    xx
+
+commit 179bd9a07232175275a1f73285b64770564499db
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Tue Jun 19 16:23:32 2018 -0300
+
+    modif
+
+commit 1e9a440fa5c4fccdd403d9c425379af17fa153ac
+Merge: 6af73e6 7cbf830
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Tue Jun 19 11:22:39 2018 -0300
+
+    ejer8 ver info
+
+commit 7cbf8306b447a7303efc5cc019b8b76e41e2ea2c
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Tue Jun 19 11:18:43 2018 -0300
+
+    modifico ejer8 2
+
+commit 6af73e6b1c582a86b48e9f05ac182d411f1fcf15
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Tue Jun 19 11:15:05 2018 -0300
+
+    modifico ejer8
+
+commit eb52d53305ccd16a9c19258d92728a6353b24f43
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Tue Jun 19 11:04:16 2018 -0300
+
+    modificación ej 7
+
+commit 6efffdd150b87cf9f0b52a75eacdb55c1bf1393a
+Merge: ae2c0b2 786b980
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Mon Jun 18 17:33:13 2018 -0300
+
+    Merge pull request #2 from matiasmf89/test-2
+    
+    modifico clase camara, agrego zoom
+
+commit ae2c0b2f6fa442cb9b3931b0ae9188f098696f36
+Merge: d40959c 12c88b5
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Mon Jun 18 17:32:04 2018 -0300
+
+    Merge pull request #1 from matiasmf89/test
+    
+    modifico clase reproductor mp3, agrego volumen
+
+commit 786b9808b7aa03f9457cb80ac8506b61701788f6
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Mon Jun 18 17:09:29 2018 -0300
+
+    modifico clase camara, agrego zoom
+
+commit 12c88b540256f4d542755bd4f780f2239c2ddf41
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Mon Jun 18 17:04:19 2018 -0300
+
+    modifico clase reproductor mp3, agrego volumen
+
+commit d40959cb2b468084a1fc800b543e181eb8b0ed42
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Mon Jun 18 15:35:55 2018 -0300
+
+    modifico gitignore
+
+commit b57774cab4055d0da3b7f81b9c8b03d95df1c10e
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Mon Jun 18 15:09:24 2018 -0300
+
+    defino gitignore
+
+commit 5075db3b56a0dfc393f3f631e6e806b0c8fb5568
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Mon Jun 18 12:30:46 2018 -0300
+
+    agrego archivo.txt
+
+commit c7c411491a1c87e149140e2c40dcd6bdc8cf2a5c
 Author: matiasmf89 <mancuellomatias@gmail.com>
 Date:   Thu Jun 14 18:38:33 2018 -0300
 
     agrego metodo mensajear
 
-commit 8d1fe30cdef06f06c94093cb8b7e824278769298
+commit 31a67f424d23dd6383758a753ffe29b3ad691815
 Author: matiasmf89 <mancuellomatias@gmail.com>
 Date:   Thu Jun 14 18:28:33 2018 -0300
 
     nueva modificación
 
-commit 76deac290d74baefb49e4ca8055673707a012dd0
+commit 18d0894eccfab115d5c569e5a6c64e40d4416d3f
 Author: matiasmf89 <mancuellomatias@gmail.com>
 Date:   Thu Jun 14 18:24:27 2018 -0300
 
     modificaciones
 
-commit 80c5f9027aaca7cc49594446bac98c007b3bca11
+commit 263afa6a7cfa625b59228eb45364b982c0541310
 Author: matiasmf89 <mancuellomatias@gmail.com>
 Date:   Wed Jun 13 19:08:48 2018 -0300
 
     modifico celular
 
-commit 1fb37f1ae81d98139ff6712117f0386928865886
+commit c65fd7a8096488088d72d46150903474d8633753
 Author: matiasmf89 <mancuellomatias@gmail.com>
 Date:   Tue Jun 12 19:29:37 2018 -0300
 
     agrego ejer_8 y modifico ejer_7
 
-commit 7e09feca5a58dcd088ec576275a91e6c8cfd917c
+commit 1579966662c2bffdfaed6031cc59968c93d76ff4
 Author: matiasmf89 <mancuellomatias@gmail.com>
 Date:   Tue Jun 12 19:15:33 2018 -0300
 
     modifico ejer_7
 
-commit 8385180590aef4a368891f0ee7416095080e4616
+commit 9217e83c2e13773a8b3e7deafc4b6bcfd5c8ac7b
 Author: matiasmf89 <mancuellomatias@gmail.com>
 Date:   Tue Jun 12 19:14:38 2018 -0300
 
     segundo commit, clase telefono, camara, mp3
 
-commit 8539025eded2253676b74f4aabd5e85e4401daec
+commit bee505c0cdd320daae2985552754b86c83e36a0f
 Author: matiasmf89 <mancuellomatias@gmail.com>
 Date:   Tue Jun 12 19:12:10 2018 -0300
 
     primer commit, clase ArtefactoElectrico
+
+commit 88da571d13b598c43e1e82f1d77bb65c07680656
+Author: matiasmf89 <mancuellomatias@gmail.com>
+Date:   Mon Jun 18 15:22:27 2018 -0300
+
+    Initial commit
