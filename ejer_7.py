@@ -17,6 +17,7 @@ class Camara(ArtefactoElectrico):
 		print("CAMARA")
 		super().ver_info() 
 		print('Megapixeles: ',self.megapixeles)
+		print('Zoom: ',self.__zoom)
 
 	def aumentar_zoom(self):
 		if self.__zoom < 10:
@@ -58,6 +59,7 @@ class ReproductorMp3(ArtefactoElectrico):
 		print("\nREPRODUCTOR MP3")
 		super().ver_info() 
 		print('Peso: ',self.peso)
+		print('Volumen: ',self.__volumen)
 
 	def subir_volumen(self):
 		if self.__volumen < 100:
