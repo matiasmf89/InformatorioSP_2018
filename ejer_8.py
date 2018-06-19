@@ -26,7 +26,10 @@ class Celular(Telefono,Camara,ReproductorMp3):
 	def cargra_credito(self):
 		self.__credito += 20
 
-	
+
+	def ver_credito(self):
+		print('Crédito: ',self.__credito)
+		
 celular = Celular('SAMSUNG','S10','NEGRO',303456)
 
 celular.mensajear()
