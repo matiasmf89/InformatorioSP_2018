@@ -42,7 +42,6 @@ class Telefono(ArtefactoElectrico):
 		super().ver_info() 
 		print('Número: ',self.numero)
 
-
 class ReproductorMp3(ArtefactoElectrico):
 
 	def __init__(self,marca,modelo,color,peso='20gr'):
