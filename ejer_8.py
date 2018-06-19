@@ -29,7 +29,7 @@ class Celular(Telefono,Camara,ReproductorMp3):
 	def ver_credito(self):
 		print('Crédito: ',self.__credito)
 		
-	def linterna(self):
+	def encender_linterna(self):
 		print('linterna prendida')
 
 	def apagar_linterna(self):
