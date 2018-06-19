@@ -14,7 +14,6 @@ class Camara(ArtefactoElectrico):
 		return super().__str__() + '\nMegapixeles: {}'.format(self.megapixeles)
 
 	def ver_info(self):
-		print("CAMARA")
 		super().ver_info() 
 		print('Megapixeles: ',self.megapixeles)
 		print('Zoom: ',self.__zoom)
@@ -40,7 +39,6 @@ class Telefono(ArtefactoElectrico):
 		print("finalizando llamada!")
 
 	def ver_info(self):
-		print("\nTELEFONO")
 		super().ver_info() 
 		print('Número: ',self.numero)
 
@@ -56,7 +54,6 @@ class ReproductorMp3(ArtefactoElectrico):
 		print("reproduciendo música!")
 
 	def ver_info(self):
-		print("\nREPRODUCTOR MP3")
 		super().ver_info() 
 		print('Peso: ',self.peso)
 		print('Volumen: ',self.__volumen)
