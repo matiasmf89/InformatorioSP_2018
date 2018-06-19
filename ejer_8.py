@@ -15,5 +15,7 @@ class Celular(Telefono,Camara,ReproductorMp3):
 celular = Celular('SAMSUNG','S10','NEGRO',303456)
 
 celular.mensajear()
+celular.reproducir()
+celular.subir_volumen()
 
 # print(__name__)
