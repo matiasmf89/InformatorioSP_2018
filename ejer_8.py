@@ -32,15 +32,15 @@ class Celular(Telefono,Camara,ReproductorMp3):
 		
 celular = Celular('SAMSUNG','S10','NEGRO',303456)
 
-celular.mensajear()
+# celular.mensajear()
 
-celular.reproducir()
-celular.subir_volumen()
+# celular.reproducir()
+# celular.subir_volumen()
 
-celular.ver_info()
+# celular.ver_info()
 
-celular.ver_bateria()
-celular.cargar_bateria()
-celular.ver_bateria()
+# celular.ver_bateria()
+# celular.cargar_bateria()
+# celular.ver_bateria()
 
 # print(__name__)
