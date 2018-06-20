@@ -33,6 +33,10 @@ class Celular(Telefono,Camara,ReproductorMp3):
 	def apagar_linterna(self):
 		print('linterna apagada')
 
+
+	def encender_linterna(self):
+		print('linterna prendida')
+
 	
 celular = Celular('SAMSUNG','S10','NEGRO',303456)
 
