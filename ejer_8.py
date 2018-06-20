@@ -29,16 +29,10 @@ class Celular(Telefono,Camara,ReproductorMp3):
 	def ver_credito(self):
 		print('Crédito: ',self.__credito)
 		
-	def encender_linterna(self):
-		print('linterna prendida')
-		print('linterna prendida')
-		print('linterna prendida')
-
 
 	def apagar_linterna(self):
 		print('linterna apagada')
-		print('linterna apagada')
-		print('linterna apagada')
+
 	
 celular = Celular('SAMSUNG','S10','NEGRO',303456)
 
